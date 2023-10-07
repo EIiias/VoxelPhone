@@ -1,0 +1,4 @@
+name: VoxelPhone
+version: '${project.version}'
+main: me.elias.voxelphone.VoxelPhone
+api-version: '1.20'
