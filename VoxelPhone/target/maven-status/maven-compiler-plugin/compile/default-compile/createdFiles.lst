@@ -1,0 +1,17 @@
+me\elias\voxelphone\Inventories\Inventories.class
+me\elias\voxelphone\ItemMetaManipulation.class
+me\elias\voxelphone\Commands\NumberCommand.class
+me\elias\voxelphone\Inventories\PhoneInventory.class
+me\elias\voxelphone\Commands\VoxelPhoneCommand.class
+me\elias\voxelphone\PluginConfig.class
+me\elias\voxelphone\Events\OnInventoryClose.class
+me\elias\voxelphone\Events\OnPlayerChat.class
+me\elias\voxelphone\VoxelPhone.class
+me\elias\voxelphone\Inventories\ContractsInventory.class
+me\elias\voxelphone\Events\OnInventoryClick.class
+me\elias\voxelphone\PlayerStats.class
+me\elias\voxelphone\Events\OnPlayerInteract.class
+me\elias\voxelphone\Events\OnPlayerJoin.class
+me\elias\voxelphone\Commands\PhoneCommand.class
+me\elias\voxelphone\Inventories\ContactsInventory.class
+me\elias\voxelphone\Inventories\ContactsContextInventory.class

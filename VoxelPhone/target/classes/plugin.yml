@@ -1,0 +1,17 @@
+name: VoxelPhone
+version: '1.0'
+main: me.elias.voxelphone.VoxelPhone
+api-version: '1.20'
+commands:
+  phone:
+    description: Create phone item
+    permission: voxelphone.command.phone
+  number:
+    description: Display your number
+  VoxelPhone:
+    description: Get help for the plugin
+permissions:
+  voxelphone.command.*:
+    children:
+      voxelphone.command.phone: true
+
